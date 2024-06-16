@@ -16,4 +16,4 @@ In FinSharp, teams receive a virtual balance of 1.5 crores to trade in six pre-d
 
 ## Acknowledgments
 
-This project was developed in collaboration with the J.P. Dawer Institute of Information Science & Technology, Department of I.C.T.
+This project was developed by students of J.P. Dawer Institute of Information Science & Technology, Department of I.C.T, in collaboration with Jainam Broking Ltd.
